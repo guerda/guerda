@@ -4,3 +4,6 @@ I'm Philip, a nerd at ❤ and currently a product manager at [Bayer](https://www
 I usually create smaller fixes, bug reports and other stuff here, so there are few source repos there.
 
 If you are a recruiter, don't bother, I'm quite happy with my job 😊
+
+I'm also on twitter and mastodon:
+[@derguerda](https://twitter.com/derguerda) and <a rel="me" href="https://ruhr.social/@guerda">guerda@ruhr.social</a>
