@@ -5,5 +5,4 @@ I usually create smaller fixes, bug reports and other stuff here, so there are f
 
 If you are a recruiter, don't bother, I'm quite happy with my job 😊
 
-I'm also on twitter and mastodon:
-[@derguerda](https://twitter.com/derguerda) and <a rel="me" href="https://ruhr.social/@guerda">guerda on ruhr.social</a>
+I'm also on mastodon: <a rel="me" href="https://ruhr.social/@guerda">guerda on ruhr.social</a>
