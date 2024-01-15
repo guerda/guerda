@@ -6,3 +6,5 @@ I usually create smaller fixes, bug reports and other stuff here, so there are f
 If you are a recruiter, don't bother, I'm quite happy with my job 😊
 
 I'm also on mastodon: <a rel="me" href="https://ruhr.social/@guerda">guerda on ruhr.social</a>
+
+You can speak to me in German and English.
